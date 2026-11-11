@@ -39,6 +39,10 @@ Install this package through the DSH plugin manager, or add it to the web profil
 
 通过 DSH 插件管理器安装，或将此包加入 web profile 的插件依赖。当前目标版本为 DSH `0.1.0-rc.6`。
 
+This package declares Node.js 22 or newer in its `engines` field.
+
+此包在 `engines` 字段中声明需要 Node.js 22 或更高版本。
+
 ## License / 许可证
 
 MIT
